@@ -1,0 +1,18 @@
+# Build scripts
+*.sh
+temp_*.pl
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
